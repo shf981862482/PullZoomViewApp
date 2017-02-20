@@ -19,4 +19,5 @@ scrollview
         scrollView.setZoomView(zoom_view);
         scrollView.setHeaderContainer(zoom_container);
 ```
-<img src="https://pan.baidu.com/disk/timeline" />
+
+<img src="https://github.com/shf981862482/PullZoomViewApp/blob/master/preimg/IMG.gif" />
